@@ -1,12 +1,12 @@
 # 🤖⛓❤️
 ```
-                           XXX   XXX   YY   YY   KK  KK
-                            XXX XXX     YY YY    KK KK 
-                             XXXXX       YYY     KKKK  
-                              XXX         YY     KKK   
-                             XXXXX        YY     KKKK  
-                            XXX XXX       YY     KK KK 
-                           XXX   XXX      YY     KK  KK
+　  XXX   XXX   YY   YY   KK  KK
+   XXX XXX     YY YY    KK KK 
+    XXXXX       YYY     KKKK  
+     XXX         YY     KKK   
+    XXXXX        YY     KKKK  
+   XXX XXX       YY     KK KK 
+  XXX   XXX      YY     KK  KK
 ```
 
 - 👋 Hi, I'm @JinTanba
