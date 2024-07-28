@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @JinTanba
 - ❤️ Passionate about [Blockchain, Smart Contracts, AI, UX/UI Design]
-- 🧠 I'm currently learning [Cryptoeconomic,ai,history]
+- 🧠 I'm currently learning [Cryptoeconomic, ai, history, English]
 - 🗼 Based in Tokyo
 - 🐦 [X: @qwertyfish_e](https://twitter.com/qwertyfish_e)
 - 💼 Open to job offers and collaborations. Feel free to reach out!
