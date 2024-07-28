@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @JinTanba
-- ❤️ I’m interested in [Blockchain, smartcontract, ai, UIXDesign]
-- 🧠 I’m currently learning [ai, Blockchain]
-
-
+- 👋 Hi, I'm @JinTanba
+- ❤️ Passionate about [Blockchain, Smart Contracts, AI, UX/UI Design]
+- 🧠 I'm currently learning [Cryptoeconomic,ai,history]
+- 🗼 Based in Tokyo
+- 🐦 [X: @qwertyfish_e](https://twitter.com/qwertyfish_e)
+- 💼 Open to job offers and collaborations. Feel free to reach out!
+- 🎓 University student (😭: currently on leave)
 <!---
 JinTanba/JinTanba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
