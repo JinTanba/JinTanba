@@ -1,4 +1,4 @@
-# 🤖⛓❤️🦄
+# 🤖⛓❤️
 - 👋 Hi, I'm @JinTanba
 - ❤️ Passionate about [Blockchain, Smart Contracts, AI, UX/UI Design]
 - 🧠 I'm currently learning [Cryptoeconomic, ai, history, English]
