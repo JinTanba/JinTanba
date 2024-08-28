@@ -1,4 +1,4 @@
-# 🤖⛓❤️
+
 ```
 ███████╗████████╗██╗  ██╗
 ██╔════╝╚══██╔══╝██║  ██║
@@ -17,7 +17,7 @@
 - 💼 Open to job offers and collaborations. Feel free to reach out!
 - 🎓 University student (currently on leave)
 - 🤖 [HomePageAI](https://homepage-xi-three.vercel.app/)
-- EOA: 0xbA1b20cb7ea720cBE9305aCd1AAbe3d3729e11B6
+- 🪪 ubireum.eth
 
 
 
