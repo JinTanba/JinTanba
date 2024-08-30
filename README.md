@@ -17,7 +17,7 @@
 - 💼 Open to job offers and collaborations. Feel free to reach out!
 - 🎓 University student (currently on leave)
 - 🤖 [HomePageAI](https://homepage-xi-three.vercel.app/)
-- 🪪 ubireum.eth
+
 
 
 
