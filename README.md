@@ -16,7 +16,8 @@
 - 🐦 [X: @qwertyfish_e](https://twitter.com/qwertyfish_e)
 - 💼 Open to job offers and collaborations. Feel free to reach out!
 - 🎓 University student (currently on leave)
-- 🤖 [HomePageAI](https://homepage-xi-three.vercel.app/)
+- 🤖 [HomePageAI](https://resume-ai-yugo.vercel.app/entrysheet)
+
 
 
 
