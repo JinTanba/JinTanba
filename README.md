@@ -5,7 +5,7 @@
  ~~  \_#####\
  ~~     \###|       
  ~~       \#/ ___
-  ~~       V~' '->         ---> [Crypto ,AI, Prediction Market] --> InfoFinance
+  ~~       V~' '->     ---> [Crypto ,AI, Prediction Market] --> InfoFinance
    ~~~         /    
      ~~._.   _/
         _/ _/       
