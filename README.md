@@ -14,7 +14,7 @@
                                                                                                                   
 ```
 ## 🌐 Socials:
-[👉👉twitter](https://x.com/InfoFinanceEth)
+[👉👉twitter@InfoFinanceEth](https://x.com/InfoFinanceEth)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JinTanba&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
