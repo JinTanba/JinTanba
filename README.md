@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## ⚡️ AIAgent and Crypto builder
+🛠️: Python,Solidity,Ts/Js,Go,Next.js,Nust.js,MCP,ClaudeAgentSDK,Foundry
 <!--
 **JinTanba/JinTanba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
