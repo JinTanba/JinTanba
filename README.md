@@ -1,5 +1,5 @@
 ## ⚡️ AIAgent and Crypto builder
-### 🛠️: Python, Solidity, Ts/Js, Go, Next.js, Nust.js, MCP, Langchain, Langgraph, ClaudeAgentSDK, Foundry
+### 🛠️: Python, Solidity, Ts/Js, Go, Next.js, Nust.js, MCP, Langchain, Langgraph, ClaudeAgentSDK, Foundry, dspy
 
 
 #### 以下開発中
