@@ -2,8 +2,6 @@
 ### 🛠️: Python, Solidity, Ts/Js, Go, Next.js, Nust.js, MCP, Langchain, Langgraph, ClaudeAgentSDK, Foundry, dspy
 
 
-#### 以下開発中
-<img width="593" height="322" alt="Screenshot 2025-10-19 at 15 29 09" src="https://github.com/user-attachments/assets/3d108953-eac1-4dba-b4f5-b8ba0fe18b59" />
 <!--
 **JinTanba/JinTanba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
