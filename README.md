@@ -14,7 +14,6 @@
 
 </div>
 
-<div align="center">
 
 <table>
   <tr>
@@ -29,7 +28,7 @@
     </td>
     <td align="center" width="50%">
       <a href="mailto:iwillreplyin72h@outlook.com">
-        <h1>iwillreplyin72h@outlook.com</h1>
+        <img src="https://media1.tenor.com/m/ilLQkRwNYu0AAAAC/spongebob-waiting.gif" width="120" height="120" style="border-radius: 100%;" alt="Twitter Profile"/>
         <br/>
         <h3>📧 Email</h3>
         <p><b>iwillreplyin72h@outlook.com</b></p>
@@ -101,7 +100,6 @@
   <tr>
     <td><b>🤖 AI/ML</b></td>
     <td>
-
       <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
       <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square" />
       <img src="https://img.shields.io/badge/DSPy-4285F4?style=flat-square" />
