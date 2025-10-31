@@ -14,398 +14,46 @@
 
 </div>
 
----
-
-## 🎯 Vision & Mission
-
-> **"All prophecies are expressed in language. From this, we can create a prediction market."**
-
-I'm building the **next generation of Intel-Finance** infrastructure — where **Artificial Intelligence**, **Decentralized Finance**, and **Collective Intelligence** converge to create transparent, trustless prediction markets powered by autonomous agents.
-
-### 🌟 What I'm Working On
-
-```mermaid
-graph LR
-    A[AI Agents] -->|Orchestration| D[Polynance]
-    B[Prediction Markets] -->|Intelligence| D
-    C[DeFi Protocols] -->|Liquidity| D
-    D -->|Output| E[Intel-Finance Platform]
-    
-    style D fill:#6366f1,stroke:#4f46e5,stroke-width:3px,color:#fff
-    style E fill:#8b5cf6,stroke:#7c3aed,stroke-width:2px,color:#fff
-```
-
 <div align="center">
-
-| 🎯 Focus Area | 🚀 Technology | 📊 Status |
-|:---:|:---:|:---:|
-| **Polynance** | Prediction Markets + Lending | 🟢 Active Development |
-| **Multi-Agent Systems** | Claude SDK + LangGraph | 🟢 Production |
-| **Intel-Finance Tools** | AI + Blockchain Integration | 🟡 Research Phase |
-| **Zero-Knowledge Proofs** | Privacy-Preserving Oracles | 🟡 Experimenting |
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-**Full-Stack Engineer & Blockchain Architect** based in **Tokyo** 🗼
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      
-### 💼 Professional Identity
-
-```typescript
-interface JinTanba {
-  role: "Engineer & Entrepreneur";
-  location: "Tokyo, Japan" | "Global";
-  timezone: "JST (UTC+9)";
-  
-  expertise: {
-    aiAgents: ["Multi-Agent Systems", "LLM Orchestration", "Autonomous Workflows"],
-    blockchain: ["Smart Contracts", "DeFi Protocols", "Oracles"],
-    predictionMarkets: ["Market Design", "Liquidity Mechanisms", "Information Aggregation"]
-  };
-  
-  currentProjects: [
-    "Polynance: Prediction Market Infrastructure",
-    "Claude Agent SDK: Multi-Agent Orchestration",
-    "Intel-Finance: AI-Powered Market Intelligence"
-  ];
-  
-  research: [
-    "Advanced Agent Orchestration",
-    "Zero-Knowledge Proofs for Oracles",
-    "Decentralized AI Inference",
-    "Mechanism Design for Prediction Markets"
-  ];
-}
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Core Philosophy
-
-**Intel-Finance Thesis:**
-- 🔮 **Prophecy → Markets**: Convert linguistic predictions into tradeable markets
-- 🤖 **AI Agents**: Autonomous participants in prediction ecosystems
-- 🌐 **Decentralization**: Trustless, censorship-resistant infrastructure
-- 📊 **Collective Intelligence**: Harness wisdom of crowds through market mechanisms
-
-**Technical Principles:**
-- ⚡ **High Performance**: Optimized for speed and scalability
-- 🔒 **Security First**: Audited smart contracts, secure key management
-- 🧪 **Innovation**: Constantly experimenting with cutting-edge tech
-- 🌍 **Open Source**: Building in public, contributing to ecosystem
-
-</td>
-</tr>
+    <td align="center" width="50%">
+      <a href="https://twitter.com/InfoFinanceEth">
+        <img src="makima.jpg" width="120" height="120" style="border-radius: 100%;" alt="Twitter Profile"/>
+        <br/>
+        <h3>🐦 Twitter</h3>
+        <p><b>@InfoFinanceEth</b></p>
+        <p>Follow me for updates on prediction markets, AI, and Ethereum</p>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="mailto:iwillreplyin72h@outlook.com">
+        <h1>iwillreplyin72h@outlook.com</h1>
+        <br/>
+        <h3>📧 Email</h3>
+        <p><b>iwillreplyin72h@outlook.com</b></p>
+        <p>I'll reply within 72 hours</p>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔮 Polynance Ecosystem
-
-<details open>
-<summary><b>🏗️ Core Infrastructure Projects</b> (Click to expand)</summary>
-
-<br>
-
-#### **1. [polyaave-dev](https://github.com/JinTanba/polyaave-dev)** ⭐2
-> Revolutionary hybrid protocol combining prediction markets with lending
-
-**Architecture:**
-```mermaid
-graph TD
-    A[User Deposits] -->|Collateral| B[Lending Pool]
-    B -->|Mint| C[Conditional Tokens]
-    C -->|Trade| D[Prediction Market]
-    D -->|Resolve| E[Oracle Network]
-    E -->|Payout| F[Winners]
-    B -->|Interest| F
-    
-    style B fill:#10b981,stroke:#059669,stroke-width:2px
-    style D fill:#3b82f6,stroke:#2563eb,stroke-width:2px
-```
-
-**Key Features:**
-- 🏦 **Dual Utility**: Earn lending interest while participating in prediction markets
-- 🔄 **Capital Efficiency**: Same collateral powers both systems
-- ⚡ **Gas Optimized**: Custom Solidity implementations for minimal costs
-- 🛡️ **Risk Management**: Isolated market pools with configurable parameters
-
-**Tech Stack:** `Solidity` `Foundry` `OpenZeppelin` `Chainlink`
-
----
-
-#### **2. [Polynance-Truemarket-Lens](https://github.com/JinTanba/Polynance-Truemarket-Lens)** ⭐2
-> Multi-market aggregation layer providing unified liquidity and price discovery
-
-**Features:**
-- 📡 Aggregates data from Polymarket, Omen, Gnosis Conditional Tokens
-- 🔄 Cross-market arbitrage detection
-- 📊 Real-time price feeds and liquidity metrics
-- 🎯 Smart order routing for best execution
-
-**Architecture:**
-```typescript
-interface TruemarketLens {
-  aggregateLiquidity(): Promise<LiquidityPool[]>;
-  findArbitrage(): Promise<ArbitrageOpportunity[]>;
-  getBestPrice(market: MarketId): Promise<PriceQuote>;
-  routeOrder(order: Order): Promise<ExecutionPath>;
-}
-```
-
----
-
-#### **3. [conditional-token-index](https://github.com/JinTanba/conditional-token-index)** ⭐2
-> Advanced indexing and querying system for conditional tokens
-
-**Capabilities:**
-- 🗂️ **Fast Indexing**: Event-based indexing with sub-second latency
-- 🔍 **Complex Queries**: GraphQL API for flexible data retrieval
-- 📈 **Analytics**: Historical data, volume metrics, user behavior
-- 🔗 **Multi-Chain**: Support for Polygon, Base, Ethereum mainnet
-
----
-
-#### **4. [multioracle](https://github.com/JinTanba/multioracle)** ⭐2 🍴1
-> Decentralized oracle system with multi-source verification
-
-**Innovation:**
-```solidity
-// Multi-source consensus with confidence scoring
-function resolveMarket(bytes32 marketId) external {
-    DataPoint[] memory sources = fetchFromOracles();
-    uint256 consensus = calculateWeightedConsensus(sources);
-    uint256 confidence = computeConfidenceScore(sources);
-    
-    require(confidence >= CONFIDENCE_THRESHOLD, "Insufficient consensus");
-    _finalizeMarket(marketId, consensus);
-}
-```
-
-**Features:**
-- 🎯 Multiple oracle sources (Chainlink, UMA, Custom)
-- ⚖️ Weighted consensus algorithms
-- 🛡️ Dispute resolution mechanisms
-- 📊 Confidence scoring for reliability
-
-</details>
-
----
-
-### 🤖 AI Agent Development
-
-<details open>
-<summary><b>🧠 Multi-Agent Systems & Orchestration</b></summary>
-
-<br>
-
-#### **1. [claude-agent-sdk-python](https://github.com/JinTanba/claude-agent-sdk-python)** ⭐1
-> Comprehensive Python SDK for building and orchestrating Claude-powered agent systems
-
-**System Architecture:**
-```
-┌─────────────────────────────────────────────┐
-│         Leader Agent (Orchestrator)         │
-├─────────────────────────────────────────────┤
-│  • Task Decomposition                       │
-│  • Agent Spawning & Management              │
-│  • Result Aggregation                       │
-└───────────┬─────────────────────────────────┘
-            │
-    ┌───────┴────────┐
-    ▼                ▼
-┌─────────┐    ┌─────────┐    ┌─────────┐
-│ Browser │    │ Creator │    │ Research│
-│  Agent  │    │  Agent  │    │  Agent  │
-└─────────┘    └─────────┘    └─────────┘
-     │              │              │
-     └──────────────┴──────────────┘
-                    ▼
-            ┌───────────────┐
-            │ Unix Domain   │
-            │   Sockets     │
-            │   (IPC)       │
-            └───────────────┘
-```
-
-**Key Capabilities:**
-- 🎭 **Multi-Agent Orchestration**: Coordinate multiple specialized agents
-- 🔄 **Async Communication**: Unix Domain Socket-based IPC
-- 📊 **Workflow Automation**: Define complex multi-step workflows
-- 🧪 **Testing Framework**: Built-in testing utilities for agent behavior
-
-**Usage Example:**
-```python
-from claude_agent_sdk import LeaderAgent, spawn_agent
-
-# Spawn specialized agents
-browser = await spawn_agent("browser_agent")
-creator = await spawn_agent("creator_agent")
-
-# Orchestrate complex workflow
-research_data = await browser.query("Research topic X")
-content = await creator.query(f"Create article from: {research_data}")
-```
-
----
-
-#### **2. [aiagent_factory](https://github.com/JinTanba/aiagent_factory)** ⭐1
-> Factory pattern implementation for creating configurable AI agents
-
-**Design Pattern:**
-```python
-class AgentFactory:
-    @staticmethod
-    def create_agent(agent_type: AgentType, config: AgentConfig) -> Agent:
-        """Factory method for agent instantiation"""
-        
-    def with_tools(self, tools: List[Tool]) -> AgentFactory:
-        """Fluent interface for tool configuration"""
-        
-    def with_memory(self, memory: MemoryBackend) -> AgentFactory:
-        """Configure agent memory system"""
-```
-
----
-
-#### **3. [sentence_match_llm](https://github.com/JinTanba/sentence_match_llm)** ⭐1
-> Advanced semantic matching system for prediction market statements
-
-**Use Case:** Match user queries to existing prediction markets using semantic understanding
-
-```python
-# Example: Finding similar prediction markets
-query = "Will Bitcoin reach $100k by end of 2025?"
-matches = sentence_matcher.find_similar_markets(
-    query=query,
-    threshold=0.85,
-    limit=5
-)
-# Returns semantically similar markets even with different wording
-```
-
-</details>
-
----
-
-### 🌐 MCP (Model Context Protocol) Integrations
-
-<details>
-<summary><b>🔌 Protocol Implementations</b></summary>
-
-<br>
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[Polynance_mcp](https://github.com/JinTanba/Polynance_mcp)** | MCP server for Polynance API integration | ✅ Production |
-| **[playwright-mcp](https://github.com/JinTanba/playwright-mcp)** | Browser automation via MCP protocol | ✅ Production |
-| **[mcp-graphql](https://github.com/JinTanba/mcp-graphql)** | GraphQL query capabilities for MCP | 🚧 Beta |
-
-**Why MCP?**
-- 🔗 **Standardized Context**: Consistent way to provide context to LLMs
-- 🔌 **Plugin Architecture**: Easy integration of new capabilities
-- 🚀 **Scalable**: Works across multiple AI platforms
-
-</details>
-
----
-
-### 🛠️ Experimental & Research Projects
-
-<details>
-<summary><b>🧪 Innovation Lab</b></summary>
-
-<br>
-
-#### **[witch-and-Intel](https://github.com/JinTanba/witch-and-Intel)** 🍴1
-**Concept:** Language-based prediction market where any statement can become a tradeable market
-
-**Technical Innovation:**
-- 🔮 Natural language → Market condition converter
-- 🤖 AI-powered market resolution
-- 🌐 Powered by Polynance infrastructure
-
----
-
-#### **[fact-checker](https://github.com/JinTanba/fact-checker)**
-**Real-time AI fact-checking for social media**
-
-**Pipeline:**
-```
-Tweet/Post → Extract Claims → Check Against Sources → 
-→ Confidence Score → Report Generation → User Notification
-```
-
-**Tech:** `LangChain` `OpenAI API` `Twitter API` `Vector DB`
-
----
-
-#### **[zktls_llm_oracle](https://github.com/JinTanba/zktls_llm_oralce)** ⭐2
-**Zero-Knowledge TLS proofs + LLM oracle system**
-
-**Innovation:** Privacy-preserving oracle that proves data provenance without revealing source details
-
-```typescript
-// Concept: Prove "This data came from trusted source" 
-// without revealing the source or full data
-interface ZKTLSProof {
-  dataHash: bytes32;
-  sourceCommitment: bytes32;
-  proof: SNARKProof;
-  llmAttestation: Signature;
-}
-```
-
-</details>
-
----
 
 ## 🛠️ Technical Expertise
 
 ### 💻 Languages & Proficiency
 
 <div align="center">
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-graph LR
-    A[Programming Languages]
-    A --> B[Expert]
-    A --> C[Advanced]
-    A --> D[Intermediate]
-    
-    B --> B1[Python]
-    B --> B2[TypeScript]
-    B --> B3[Solidity]
-    
-    C --> C1[JavaScript]
-    C --> C2[Go]
-    C --> C3[Rust]
-    
-    D --> D1[Vyper]
-    D --> D2[Move]
-    
-    style B fill:#10b981,stroke:#059669
-    style C fill:#3b82f6,stroke:#2563eb
-    style D fill:#8b5cf6,stroke:#7c3aed
-```
-
 </div>
 
 <table>
   <tr>
     <td width="33%" align="center">
-      
+     
+
 #### ⚡ Expert Level
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -453,6 +101,7 @@ graph LR
   <tr>
     <td><b>🤖 AI/ML</b></td>
     <td>
+
       <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square" />
       <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square" />
       <img src="https://img.shields.io/badge/DSPy-4285F4?style=flat-square" />
@@ -494,36 +143,6 @@ graph LR
 
 ---
 
-### 🔧 Specializations Deep Dive
-
-<details>
-<summary><b>🤖 AI/ML Stack</b></summary>
-
-<br>
-
-**Multi-Agent Orchestration:**
-- ✅ LangChain/LangGraph for agent workflows
-- ✅ Claude AI for reasoning and decision-making
-- ✅ DSPy for prompt optimization
-- ✅ Custom agent frameworks (leader-worker pattern)
-
-**Vector Databases & RAG:**
-- Pinecone, Chroma, Weaviate
-- Semantic search implementations
-- Context retrieval for LLMs
-
-**Model Fine-tuning:**
-- LoRA/QLoRA for efficient fine-tuning
-- Custom training pipelines
-- Model evaluation frameworks
-
-</details>
-
-<details>
-<summary><b>⛓️ Blockchain & DeFi</b></summary>
-
-<br>
-
 **Smart Contract Development:**
 ```solidity
 // Example: Gas-optimized prediction market
@@ -558,7 +177,7 @@ contract OptimizedMarket {
 </details>
 
 <details>
-<summary><b>🌐 Web3 Infrastructure</b></summary>
+<summary><b>🌐 Crypto Infrastructure</b></summary>
 
 <br>
 
@@ -598,36 +217,6 @@ contract OptimizedMarket {
 ### 📊 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=JinTanba&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF)
-
-</div>
-
----
-
-## 🏆 Achievements & Metrics
-
-<div align="center">
-
-| Metric | Value | Description |
-|:------:|:-----:|:------------|
-| ⭐ **Total Stars** | 107+ | Across all repositories |
-| 👥 **Followers** | 16+ | Growing community |
-| 📦 **Public Repos** | 100+ | Open source contributions |
-| 🔀 **Pull Requests** | 50+ | Collaborative work |
-| 🎯 **Active Projects** | 10+ | Currently maintaining |
-
-</div>
-
-### 🎖️ GitHub Achievements
-
-<div align="center">
-
-| Achievement | Description | Status |
-|-------------|-------------|--------|
-| 🎯 **YOLO** | Merged PR without review | ✅ Unlocked |
-| 👥 **Pair Extraordinaire** | Coauthored commits | ✅ Unlocked |
-| ⚡ **Quickdraw** | Closed issue/PR quickly | ✅ Unlocked |
-| 🦈 **Pull Shark x2** | Significant PRs opened | ✅ Unlocked |
-| 🌟 **Starstruck** | Repository received stars | ✅ Unlocked |
 
 </div>
 
@@ -757,33 +346,6 @@ current_learning = {
 - ✅ Open to pair programming sessions
 
 ---
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://twitter.com/InfoFinanceEth">
-        <img src="makima.jpg" width="120" height="120" style="border-radius: 50%;" alt="Twitter Profile"/>
-        <br/>
-        <h3>🐦 Twitter</h3>
-        <p><b>@InfoFinanceEth</b></p>
-        <p>Follow me for updates on prediction markets, AI, and Ethereum</p>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="mailto:iwillreplyin72h@outlook.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="120" height="120" alt="Email"/>
-        <br/>
-        <h3>📧 Email</h3>
-        <p><b>iwillreplyin72h@outlook.com</b></p>
-        <p>I'll reply within 72 hours</p>
-      </a>
-    </td>
-  </tr>
-</table>
 
 **💡 Interested in:** Prediction Markets | AI | Ethereum
 
