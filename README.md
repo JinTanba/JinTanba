@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=250&section=header&text=Jin%20Tanba&fontSize=80&fontAlignY=35&desc=AI%20×%20Crypto%20×%20Prediction%20Markets&descAlignY=52&descSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=250&section=header&text=Hello%20World&fontSize=80&fontAlignY=35&desc=Prediction%20Markets%20×%20AI%20×%20Ethereum&descAlignY=52&descSize=20&animation=twinkling" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/InfoFinanceEth?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/InfoFinanceEth)
 [![GitHub followers](https://img.shields.io/github/followers/JinTanba?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/JinTanba)
@@ -762,29 +762,30 @@ current_learning = {
 
 <div align="center">
 
-### 🌐 Social & Professional Links
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://twitter.com/InfoFinanceEth">
+        <img src="makima.jpg" width="120" height="120" style="border-radius: 50%;" alt="Twitter Profile"/>
+        <br/>
+        <h3>🐦 Twitter</h3>
+        <p><b>@InfoFinanceEth</b></p>
+        <p>Follow me for updates on prediction markets, AI, and Ethereum</p>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="mailto:iwillreplyin72h@outlook.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="120" height="120" alt="Email"/>
+        <br/>
+        <h3>📧 Email</h3>
+        <p><b>iwillreplyin72h@outlook.com</b></p>
+        <p>I'll reply within 72 hours</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Twitter](https://img.shields.io/badge/Twitter-@InfoFinanceEth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InfoFinanceEth)
-[![GitHub](https://img.shields.io/badge/GitHub-@JinTanba-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JinTanba)
-[![Website](https://img.shields.io/badge/Website-jintanba.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jintanba.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jintanba)
-
-### 💬 Preferred Communication
-
-| Platform | Response Time | Best For |
-|----------|--------------|----------|
-| 🐦 **Twitter DM** | ~24 hours | Quick questions, networking |
-| 💼 **GitHub Issues** | ~48 hours | Technical discussions, bugs |
-| 📧 **Email** | ~3 days | Formal inquiries, partnerships |
-| 💬 **Discord** | Variable | Community discussions |
-
-### 📧 Email Topics Welcome
-
-- 🤝 **Collaboration opportunities** on AI/Crypto projects
-- 💼 **Consulting** for prediction market or agent systems
-- 🎤 **Speaking engagements** at conferences/meetups
-- 🎓 **Mentorship requests** (limited availability)
-- 🔬 **Research collaborations** in Intel-Finance
+**💡 Interested in:** Prediction Markets | AI | Ethereum
 
 </div>
 
@@ -830,31 +831,6 @@ current_learning = {
 3. **🤝 Collaborate Generously:** Best ideas emerge from collective intelligence
 4. **📚 Learn Continuously:** Technology evolves; so should we
 5. **🌍 Think Globally:** Solutions should work for everyone, everywhere
-
----
-
-## 📈 Project Roadmap 2025
-
-```mermaid
-gantt
-    title Jin Tanba's 2025 Project Timeline
-    dateFormat  YYYY-MM
-    section Polynance
-    Core Protocol Development    :2025-01, 4M
-    Testnet Launch              :2025-04, 2M
-    Security Audits             :2025-05, 2M
-    Mainnet Launch              :2025-07, 1M
-    
-    section AI Agents
-    Claude SDK v2.0             :2025-01, 3M
-    Multi-Agent Workflows       :2025-03, 4M
-    Enterprise Features         :2025-06, 3M
-    
-    section Research
-    ZK Oracle Paper             :2025-02, 4M
-    Mechanism Design Research   :2025-04, 5M
-    Conference Presentations    :2025-08, 2M
-```
 
 ---
 
