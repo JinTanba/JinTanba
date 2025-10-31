@@ -1,5 +1,3 @@
-# Hi there, I'm Jin Tanba 👋
-
 <div align="center">
 
 <!-- Animated Header -->
@@ -14,7 +12,7 @@
 
 </div>
 
-
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
@@ -37,48 +35,44 @@
     </td>
   </tr>
 </table>
+</div>
 
----
-
+<div align="center">
 
 ## 🛠️ Technical Expertise
 
 ### 💻 Languages & Proficiency
-
-<div align="center">
-</div>
 
 <table>
   <tr>
     <td width="33%" align="center">
      
 
-#### ⚡ Expert Level
+#### ⭐️⭐️⭐️⭐️⭐️
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 </td>
 <td width="33%" align="center">
 
-#### 🚀 Advanced
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### ⭐️⭐️⭐️
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </td>
-<td width="33%" align="center">
 
-#### 📚 Learning
-![Vyper](https://img.shields.io/badge/Vyper-3C3C3D?style=for-the-badge)
-![Move](https://img.shields.io/badge/Move-000000?style=for-the-badge)
-
-</td>
 </tr>
 </table>
+</td>
 
 ---
-
+</div>
+<div align="center">
+  
 ### 🎨 Frameworks & Libraries
 
 <table>
@@ -138,7 +132,7 @@
     <td>Deployment, scaling, monitoring</td>
   </tr>
 </table>
-
+</div>
 ---
 
 **Smart Contract Development:**
