@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=250&section=header&text=Hello%20World&fontSize=80&fontAlignY=35&desc=Prediction%20Markets%20×%20AI%20×%20Ethereum&descAlignY=52&descSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=250&section=header&text=⚡️%20keep%20building&fontSize=80&fontAlignY=35&desc=Prediction%20Markets%20×%20AI%20×%20Ethereum&descAlignY=52&descSize=20&animation=twinkling" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/InfoFinanceEth?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/InfoFinanceEth)
 [![GitHub followers](https://img.shields.io/github/followers/JinTanba?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/JinTanba)
