@@ -9,8 +9,6 @@
 [![Website](https://img.shields.io/badge/Website-jintanba.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jintanba.github.io/)
 [![Total Stars](https://img.shields.io/github/stars/JinTanba?style=for-the-badge&logo=github&logoColor=white&color=yellow&label=Total%20Stars)](https://github.com/JinTanba)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Building+the+Future+of+Intel-Finance;Multi-Agent+Systems+%2B+DeFi+Protocols;Prediction+Markets+%2B+AI+Orchestration;Tokyo+%E2%86%92+Global+Impact" alt="Typing SVG" />
-
 </div>
 
 <div align="center">
