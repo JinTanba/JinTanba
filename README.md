@@ -37,24 +37,4 @@
 </table>
 </div>
 
-<div align="center">
-
-## 🛠️ Technical Expertise
-
-### 💻 Languages & Proficiency
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-
-
-</td>
-
-</tr>
-</table>
-</td>
-
----
-</div>
-
 </div>
