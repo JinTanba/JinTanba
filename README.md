@@ -15,6 +15,10 @@
 </div>
 
 <div align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</div>
+
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
