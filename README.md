@@ -1,9 +1,5 @@
 <div align="center">
 
-<img width="1792" height="576" alt="pixel_sunglasses_king" src="https://github.com/user-attachments/assets/86a999af-dff9-4a0b-9756-92cd71b561b1" />
-
-
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/InfoFinanceEth?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/InfoFinanceEth)
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
