@@ -9,9 +9,6 @@
     <img src="koi/koi.gif" width="256" alt="My koi" />
   <img src="koi/koi.gif" width="256" alt="My koi" />
   <img src="koi/koi.gif" width="256" alt="My koi" />
-    <img src="koi/koi.gif" width="256" alt="My koi" />
-  <img src="koi/koi.gif" width="256" alt="My koi" />
-  <img src="koi/koi.gif" width="256" alt="My koi" />
 </div>
 
 </div>
